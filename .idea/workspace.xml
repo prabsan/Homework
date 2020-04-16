@@ -11,6 +11,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1adhtbB631YGH5QjeYSS5omg0BT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,5 +46,23 @@
       <updated>1587071593655</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1488" height="263" key="GridCell.Tab.0.bottom" timestamp="1587073379045">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1488" height="263" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1587073379045" />
+    <state width="1488" height="263" key="GridCell.Tab.0.center" timestamp="1587073379045">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1488" height="263" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1587073379045" />
+    <state width="1488" height="263" key="GridCell.Tab.0.left" timestamp="1587073379045">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1488" height="263" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1587073379045" />
+    <state width="1488" height="263" key="GridCell.Tab.0.right" timestamp="1587073379045">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1488" height="263" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1587073379045" />
   </component>
 </project>
