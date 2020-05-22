@@ -1,11 +1,21 @@
+import java.io.IOException;
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
+        int [] arr = {2300,2560,2430,2037,2044};
+        DivisibleNotMultiple trial = new DivisibleNotMultiple();
+        //trial.DivisibleNotMultiple(arr);
 
-        int [] a = {84, 69, 76, 86, 94, 91};
-        System.out.println("Insertion Sort");
-        InsertionSort.InsertionSort(a);
-  
-        
+        int x = 5;
+        Factorial f = new Factorial();
+        //f.Factorial(x);
+
+        String y = "Hey Yall";
+        UpperLowerCase u = new UpperLowerCase();
+        //u.UpperLowerCase(y);
+
+
 
         // PM - Comment 1
         // PM - Comment 2
